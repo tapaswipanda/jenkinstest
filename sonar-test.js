@@ -1000,7 +1000,7 @@ var manageRule = {
 	},
 }
 
-
+//added a new commnet for triggring a new build
 $(document).ready(function() {
 	mailBox.init();
 	composeMail.init();
